@@ -7,4 +7,4 @@ In other words, neural networks are trained on a large timeseries dataset with s
 
 All of the three pretrained neural networks outperform all of the four baselines in predictions for both known and unknown countries data. The current repository presents the main parts of the thesis implementation but several parts from the phases of pretrained models' development, models' hyper-tuning and baselines' experiments are missing.
 
-**This thesis has been summited to ECAI-2023 Conference**
+**This thesis has been submmited to ECAI-2023 Conference**
